@@ -12,7 +12,7 @@ class mj:
         self.role = ["Frontend", "Backend"]
         self.os = ["CachyOS", "NixOS"]
         self.shell = "fish"
-        self.editor = "Neovim"
+        self.editor = "Neovim/vscode"
 
     def __str__(self):
         return "fixing one bug and creating three more."
