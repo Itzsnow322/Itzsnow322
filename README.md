@@ -1,16 +1,69 @@
-## Hi there 👋
+class mj:
+    def __init__(self):
+        self.role         = ["Frontend Developer", "Backend Developer"]
+        self.student      = "Software Engineering"
+        self.location     = "Colombia"
 
-<!--
-**Itzsnow322/Itzsnow322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        self.os           = ["GNU/Linux", "Windows"]
+        self.distros      = ["CachyOS", "NixOS"]
 
-Here are some ideas to get you started:
+        self.languages    = [
+            "Python",
+            "Java",
+            "JavaScript",
+            "TypeScript",
+            "C",
+            "C++"
+        ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        self.technologies = {
+            "frontend": [
+                "React",
+                "HTML",
+                "CSS",
+                "Tailwind"
+            ],
+
+            "backend": [
+                "Node.js",
+                "FastAPI",
+                "Flask"
+            ],
+
+            "databases": [
+                "PostgreSQL",
+                "MySQL"
+            ],
+
+            "linux": [
+                "Hyprland",
+                "Fish",
+                "Neovim",
+                "Bash"
+            ],
+
+            "tools": [
+                "Git",
+                "GitHub",
+                "Docker",
+                "VSCode"
+            ]
+        }
+
+        self.current_focus = [
+            "Full Stack Development",
+            "GNU/Linux",
+            "Hyprland Ricing",
+            "Low Level Stuff"
+        ]
+
+    def __str__(self):
+        return "fixing one bug and creating three more."
+
+me = mj()
+
+print(me)
+
+# booting /life...
+# loading configs...
+# starting chaos...
