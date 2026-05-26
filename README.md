@@ -1,4 +1,4 @@
-<h1 align="center">mj</h1>
+<h1 align="center">MJ</h1>
 
 <p align="center">
 Full Stack Developer • GNU/Linux Enjoyer • Software Engineering Student
@@ -13,7 +13,7 @@ class mj:
         self.os = ["CachyOS", "NixOS"]
         self.shell = "fish"
         self.editor = "Neovim/vscode"
-
+           
     def __str__(self):
         return "fixing one bug and creating three more."
 
