@@ -1,69 +1,50 @@
+<h1 align="center">mj</h1>
+
+<p align="center">
+Full Stack Developer • GNU/Linux Enjoyer • Software Engineering Student
+</p>
+
+---
+
+```python
 class mj:
     def __init__(self):
-        self.role         = ["Frontend Developer", "Backend Developer"]
-        self.student      = "Software Engineering"
-        self.location     = "Colombia"
-
-        self.os           = ["GNU/Linux", "Windows"]
-        self.distros      = ["CachyOS", "NixOS"]
-
-        self.languages    = [
-            "Python",
-            "Java",
-            "JavaScript",
-            "TypeScript",
-            "C",
-            "C++"
-        ]
-
-        self.technologies = {
-            "frontend": [
-                "React",
-                "HTML",
-                "CSS",
-                "Tailwind"
-            ],
-
-            "backend": [
-                "Node.js",
-                "FastAPI",
-                "Flask"
-            ],
-
-            "databases": [
-                "PostgreSQL",
-                "MySQL"
-            ],
-
-            "linux": [
-                "Hyprland",
-                "Fish",
-                "Neovim",
-                "Bash"
-            ],
-
-            "tools": [
-                "Git",
-                "GitHub",
-                "Docker",
-                "VSCode"
-            ]
-        }
-
-        self.current_focus = [
-            "Full Stack Development",
-            "GNU/Linux",
-            "Hyprland Ricing",
-            "Low Level Stuff"
-        ]
+        self.role = ["Frontend", "Backend"]
+        self.os = ["CachyOS", "NixOS"]
+        self.shell = "fish"
+        self.editor = "Neovim"
 
     def __str__(self):
         return "fixing one bug and creating three more."
 
 me = mj()
-
 print(me)
+```
 
-# booting /life...
-# loading configs...
-# starting chaos...
+---
+
+## tech stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,linux,bash,git,github,neovim,vscode,docker"/>
+
+</p>
+
+---
+
+## github stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Itzsnow322&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itzsnow322&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+```bash
+$ cd /life && ./start.sh
+```
