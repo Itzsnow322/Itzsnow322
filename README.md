@@ -75,9 +75,6 @@ shell:       fish
 
 <br/>
 
-<div align="center"> 
-### 月 side quests
-
 <table border="0">
 
 </table>
