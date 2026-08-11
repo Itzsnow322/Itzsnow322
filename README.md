@@ -37,7 +37,6 @@ shell:       fish
 ### ⋆｡°✩ ahora mismo
 
 ```diff
-+ riceando el desktop (otra vez)
 + debuggeando niri/config.kdl
 + configurando lanzadores de juegos
 - durmiendo lo suficiente
@@ -76,17 +75,11 @@ shell:       fish
 
 <br/>
 
-<div align="center">
-
+<div align="center"> 
 ### 月 side quests
 
 <table border="0">
-<tr>
-<td align="center" width="140">🗡️<br/><sub>Hollow Knight<br/>+ Silksong</sub></td>
-<td align="center" width="140">🏎️<br/><sub>NFS<br/>Most Wanted</sub></td>
-<td align="center" width="140">🍑<br/><sub>Celeste</sub></td>
-<td align="center" width="140">🌆<br/><sub>GTA Vice City<br/>+ III</sub></td>
-</tr>
+
 </table>
 
 </div>
