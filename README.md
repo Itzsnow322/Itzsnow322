@@ -25,7 +25,7 @@ nombre:      MJ
 alias:       Itzsnow322
 base:        Colombia
 rol:         Software Engineering Student
-enfoque:     Fullstack Dev
+enfoque:     Fullstack Developer
 sistema:     NixOS
 compositor:  niri  
 shell:       fish
