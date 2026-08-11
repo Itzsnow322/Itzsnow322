@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=C4B5F5&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=90&lines=full+stack+developer;%2F+nixos+enjoyer;niri+%E3%83%BB+monochrome+rice;fixing+one+bug%2C+creating+three+more" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=C4B5F5&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=90&lines=full+stack+developer;+nixos+enjoyer;niri+%E3%83%BB+monochrome+rice;fixing+one+bug%2C+creating+three+more" alt="typing"/>
 
 <br/><br/>
 
