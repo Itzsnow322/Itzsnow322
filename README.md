@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFD1DC,50:FFB7C5,100:FF8FAB&height=260&section=header&text=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%82%8F&fontSize=58&fontColor=8B2942&fontAlignY=42&desc=welcome%20to%20mj%27s%20corner%20of%20the%20internet&descAlignY=62&descSize=17&descAlign=50&animation=fadeIn" width="100%"/>
 
+<img src="https://cdn3.emoji.gg/emojis/9014-hellokittywave.gif" width="60"/>
+
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=E75480&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=90&lines=full+stack+developer+%F0%9F%8E%80;nixos+enjoyer+%E2%9C%A9;niri+%C2%B7+cute+rice;fixing+one+bug%2C+creating+three+more" alt="typing"/>
@@ -18,7 +20,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎀 perfil
+### <img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="20"/> perfil
 
 ```yaml
 nombre:      MJ
@@ -34,7 +36,7 @@ shell:       fish
 </td>
 <td width="50%" valign="top">
 
-### 🐾 ahora mismo
+### <img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="20"/> ahora mismo
 
 ```diff
 + debuggeando niri/config.kdl
@@ -54,7 +56,7 @@ shell:       fish
 
 <div align="center">
 
-### 💕 tech stack
+### <img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="20"/> tech stack
 
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,linux,docker,git,github,neovim,vscode&theme=light&perline=6" />
 
@@ -64,6 +66,10 @@ shell:       fish
 <img src="https://img.shields.io/badge/niri-FF8FAB?style=for-the-badge&labelColor=FFF0F3&color=FFF0F3"/>
 <img src="https://img.shields.io/badge/fish_shell-FFB7C5?style=for-the-badge&logo=fish&logoColor=8B2942&labelColor=FFF0F3"/>
 <img src="https://img.shields.io/badge/wayland-FF8FAB?style=for-the-badge&logo=wayland&logoColor=8B2942&labelColor=FFF0F3"/>
+
+<br/><br/>
+
+<img src="https://cdn3.emoji.gg/emojis/1407-hellokittyheart.png" width="22"/> <img src="https://cdn3.emoji.gg/emojis/1407-hellokittyheart.png" width="22"/> <img src="https://cdn3.emoji.gg/emojis/1407-hellokittyheart.png" width="22"/>
 
 </div>
 
@@ -77,7 +83,7 @@ shell:       fish
 
 <div align="center">
 
-### ✩ stats
+### <img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="20"/> stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Itzsnow322&show_icons=true&theme=radical&hide_border=true&bg_color=FFF0F3&title_color=E75480&icon_color=FF8FAB&text_color=8B2942&ring_color=E75480" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itzsnow322&layout=compact&theme=radical&hide_border=true&bg_color=FFF0F3&title_color=E75480&text_color=8B2942" height="165"/>
@@ -96,7 +102,7 @@ shell:       fish
 
 <div align="center">
 
-### 🎀 cita del día
+### <img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="20"/> cita del día
 
 <img src="https://img.shields.io/badge/%22fixing%20one%20bug%20and%20creating%20three%20more.%22-FFF0F3?style=for-the-badge&labelColor=FFF0F3&color=FFF0F3"/>
 
@@ -105,6 +111,10 @@ shell:       fish
 <br/><br/>
 
 <a href="https://github.com/Itzsnow322"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="55"/>
 
 </div>
 
