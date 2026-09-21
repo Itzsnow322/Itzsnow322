@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00D9FF&height=250&section=header&text=CV01%20%2F%2F%20MJ.exe&fontSize=48&fontColor=E8FFFD&fontAlignY=38&desc=fullstack%20dev%20%C2%B7%20nixos%20%C2%B7%20always%20debugging&descAlignY=58&descSize=15&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00D9FF&height=250&section=header&text=mj%40nixos%20~&fontSize=48&fontColor=E8FFFD&fontAlignY=38&desc=fullstack%20dev%20%C2%B7%20nixos%20%C2%B7%20always%20debugging&descAlignY=58&descSize=15&descAlign=50&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1000&color=00D9FF&center=true&vCenter=true&width=560&height=40&lines=%3E+booting+module+01...;%3E+loading+nixos+config;%3E+compiling+niri+rice;%3E+status%3A+online" alt="typing"/>
 
